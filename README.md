@@ -12,7 +12,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kennedydvk&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Kennedy Cesar github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kennedydvk&show_icons=true&count_private=true&hide_border=true&title_color=ed145b&icon_color=ed145b&text_color=ed145b&bg_color=0d1117" alt="Kennedy Cesar github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedydvk&layout=compact&hide_border=true&title_color=ed145b&text_color=ed145b&bg_color=0d1117" />
 </div>
 
@@ -43,15 +43,6 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
-
-
-
-
-
-
-
-
-
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/KennedyDvk/KennedyDvk/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
