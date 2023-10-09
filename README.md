@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed145b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Meu+Nome+é+Kennedy+Cesar;Eu+Sou+Desenvolvedor+FullStack;Me+formei+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kennedydvk&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kennedydvk&bg_color=161616&color=ed145b&line=ed145b&point=ed145b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -14,6 +10,10 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kennedydvk&show_icons=true&count_private=true&hide_border=true&title_color=ed145b&icon_color=ed145b&text_color=ed145b&bg_color=0d1117" alt="Kennedy Cesar github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedydvk&layout=compact&hide_border=true&title_color=ed145b&text_color=ed145b&bg_color=0d1117" />
 </div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kennedydvk&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 
 <div align="center"> 
