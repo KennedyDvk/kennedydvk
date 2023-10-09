@@ -48,6 +48,9 @@
 ![My SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed145b&height=120&section=footer"/>
+
+
 <!--### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -58,9 +61,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kennedydvk}/count.svg" /></p> 
 <br>
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed145b&height=120&section=footer"/>
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/KennedyDvk/KennedyDvk/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
