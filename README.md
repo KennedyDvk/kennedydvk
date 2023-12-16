@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed145b&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+My+Name+is+Kennedy+Cesar;I'm+a+FullStack+Developer;I+graduated+in+Analysis+and+Systems+Development;Welcome%21+%3A%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed145b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Kennedy+Cesar;Eu+Sou+Desenvolvedor+FullStack;Me+formei+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kennedydvk&bg_color=161616&color=ed145b&line=ed145b&point=ed145b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
